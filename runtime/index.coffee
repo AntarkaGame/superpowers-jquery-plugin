@@ -1,0 +1,1 @@
+if window? then window.$ = require( 'jquery' )

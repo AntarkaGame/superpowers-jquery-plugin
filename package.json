@@ -1,0 +1,17 @@
+{
+  "name": "sup-jquery-plugin",
+  "version": "1.0.0",
+  "description": "Jquery plugin for Superpowers, the extensible HTML5 2D+3D game engine.",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "jQuery": "^1.7.4",
+    "jsdom": "^4.0.5",
+    "location": "0.0.1",
+    "navigator": "^1.0.1",
+    "xmlhttprequest": "^1.7.0"
+  },
+  "maintainers": [
+    "GENTILHOMME Thomas <gentilhomme.thomas@gmail.com>"
+  ],
+  "license": "MIT"
+}
