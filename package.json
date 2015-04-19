@@ -1,6 +1,6 @@
 {
   "name": "sup-jquery-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Jquery plugin for Superpowers, the extensible HTML5 2D+3D game engine.",
   "homepage": "https://github.com/fraxken/superpowers-jquery-plugin",
   "repository": {
