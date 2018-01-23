@@ -1,4 +1,7 @@
 # superpowers-jquery-plugin
+
+> This package is deprecated and detected as potentially insecurised. PLEASE DONT USE! 
+
 Jquery plugin for Superpowers, [the extensible HTML5 2D+3D game engine](https://sparklinlabs.com/).
 
 # Documentation
